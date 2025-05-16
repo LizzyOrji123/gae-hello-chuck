@@ -5,7 +5,7 @@ This project demonstrates how to create and run a simple **"Hello Chuck"** Pytho
 
 ## 🚀 Project Overview
 
-- Python web app that prints **"Hello there Chuck"**
+- Python web app that prints **"Hello there Chuck! My name is Elizabeth"**
 - Dockerized setup (no need for VMware or VirtualBox)
 - Gunicorn web server
 - Google App Engine compatible project structure
