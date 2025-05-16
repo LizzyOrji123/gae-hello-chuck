@@ -74,6 +74,3 @@ You can deploy this project to Google Cloud App Engine or run it locally via Doc
 ## 📝 License
 
 This project is open-source and available under the MIT License.
-
-```
-
