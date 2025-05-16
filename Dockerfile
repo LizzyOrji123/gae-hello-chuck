@@ -7,4 +7,7 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD exec gunicorn --bind :$PORT main:app
+ENV PORT 8080
+CMD exec gunicorn -b :$PORT main:app
+
+
